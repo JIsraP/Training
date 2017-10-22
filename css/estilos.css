@@ -1,0 +1,20 @@
+li {
+	color: red;
+}
+
+.ancho{
+	padding: 30px 0;
+	background-color: grey; 
+}
+
+.miDiv{
+	padding: 30px 0;
+}
+
+#izquierdaDos{
+	background-color: yellow;
+}
+
+#contenedor {
+	border: 1px solid black;
+}
